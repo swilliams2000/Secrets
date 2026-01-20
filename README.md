@@ -1,4 +1,4 @@
-# Final Secrets – OAuth Authentication App
+# Secrets – OAuth Authentication App
 
 A secure web application that allows users to anonymously submit and view secrets using OAuth-based authentication. This project focuses on backend authentication flows, session management, and protecting sensitive credentials through environment variables.
 
